@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aniket das</h1>
+
+<div class="typing-svg" style="margin: 4px 0; padding: 10px 0; border-top: 2px solid rgb(207, 195, 195); border-bottom: 2px solid rgb(207, 195, 195);">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=200&color=FF0000&vCenter=true&random=false&width=750&height=65&lines=I+am+Aniket+Das" alt="Typing SVG" />
+  </a>
+</div>
 <h3 align="center">A passionate frontened developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket00101&label=Profile%20views&color=0e75b6&style=flat" alt="aniket00101" /> </p>
