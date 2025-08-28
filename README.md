@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-26420.web.app](https://portfolio-26420.web.app)
+- 👨‍💻 All of my projects are available at [https://portfolio-psi-three-d6mmygainv.vercel.app/]
 
 - 📫 How to reach me **dasaniket971@gmail.com**
 
