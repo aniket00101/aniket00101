@@ -1,26 +1,7 @@
+#
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="800" height="80" viewBox="0 0 800 80">
-    <text x="10" y="55" font-family="Fira Code, monospace" font-size="40" font-weight="600">
-      <tspan fill="red">I</tspan>
-      <tspan fill="blue"> </tspan>
-      <tspan fill="green">a</tspan>
-      <tspan fill="orange">m</tspan>
-      <tspan fill="purple"> </tspan>
-      <tspan fill="teal">A</tspan>
-      <tspan fill="brown">n</tspan>
-      <tspan fill="pink">i</tspan>
-      <tspan fill="violet">k</tspan>
-      <tspan fill="lime">e</tspan>
-      <tspan fill="gold">t</tspan>
-      <tspan fill="cyan"> </tspan>
-      <tspan fill="crimson">D</tspan>
-      <tspan fill="indigo">a</tspan>
-      <tspan fill="olive">s</tspan>
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00FF41,39FF14,CCFF00,FFFF33,FF073A&width=450&lines=I+am+Aniket+Das" alt="I am Aniket Das"/>
 </p>
-
-
 
 
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/566303171864699.64761967a0915.png" alt="Behance Image" style="height: 350px; width: auto; border-radius: 8px;" />
