@@ -1,0 +1,21 @@
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="800" height="80" viewBox="0 0 800 80">
+    <text x="10" y="55" font-family="Fira Code, monospace" font-size="40" font-weight="600">
+      <tspan fill="red">I</tspan>
+      <tspan fill="blue"> </tspan>
+      <tspan fill="green">a</tspan>
+      <tspan fill="orange">m</tspan>
+      <tspan fill="purple"> </tspan>
+      <tspan fill="teal">A</tspan>
+      <tspan fill="brown">n</tspan>
+      <tspan fill="pink">i</tspan>
+      <tspan fill="violet">k</tspan>
+      <tspan fill="lime">e</tspan>
+      <tspan fill="gold">t</tspan>
+      <tspan fill="cyan"> </tspan>
+      <tspan fill="crimson">D</tspan>
+      <tspan fill="indigo">a</tspan>
+      <tspan fill="olive">s</tspan>
+    </text>
+  </svg>
+</p>
