@@ -1,18 +1,38 @@
-
-<div class="typing-svg" style="margin: 4px 0; padding: 10px 0; border-top: 2px solid rgb(207, 195, 195); border-bottom: 2px solid rgb(207, 195, 195);">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=200&color=FF0000&vCenter=true&random=false&width=750&height=65&lines=I+am+Aniket+Das" alt="Typing SVG" />
-  </a>
-</div>
-<h3 align="center">A passionate frontened developer from India</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4500&width=435&lines=Full+Stack+Web+Developer;IoT+%26+Embedded+Systems+Enthusiast;Always+Learning+New+Things"/>
+  <svg xmlns="http://www.w3.org/2000/svg" width="800" height="80" viewBox="0 0 800 80">
+    <text x="10" y="55" font-family="Fira Code, monospace" font-size="40" font-weight="600">
+      <tspan fill="red">I</tspan>
+      <tspan fill="blue"> </tspan>
+      <tspan fill="green">a</tspan>
+      <tspan fill="orange">m</tspan>
+      <tspan fill="purple"> </tspan>
+      <tspan fill="teal">A</tspan>
+      <tspan fill="brown">n</tspan>
+      <tspan fill="pink">i</tspan>
+      <tspan fill="violet">k</tspan>
+      <tspan fill="lime">e</tspan>
+      <tspan fill="gold">t</tspan>
+      <tspan fill="cyan"> </tspan>
+      <tspan fill="crimson">D</tspan>
+      <tspan fill="indigo">a</tspan>
+      <tspan fill="olive">s</tspan>
+    </text>
+  </svg>
+</p>
+
+
+
+
+<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/566303171864699.64761967a0915.png" alt="Behance Image" style="height: 350px; width: auto; border-radius: 8px;" />
+
+<h3>A passionate MERN stack and Ml Ethuasists</h3>
+<p >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4500&width=435&lines=Full+Stack+Web+Developer;Always+Learning+New+Things"/>
 </p>
 
 <div  style="margin: 15px 0; padding: 12px; border-radius: 10px; background: linear-gradient(90deg, #1f4037, #99f2c8); ">
   <h2 style="font-size: 18px; font-weight: bold; color: #fff; margin: 0; display: flex; align-items: center; justify-content: center; gap: 8px;">
-    👀 Profile Views 
-    <img src="https://komarev.com/ghpvc/?username=aniket00101&color=FF4500&style=for-the-badge" alt="aniket00101" style="margin-left: 8px;"/>
+    👀 Profile Views <img src="https://komarev.com/ghpvc/?username=aniket00101&color=FF4500&style=for-the-badge" alt="aniket00101" style="margin-left: 8px;"/>
   </h2>
 </div>
 
@@ -30,7 +50,6 @@
 </div>
 
 # 💻 Tech Stack:
-
 <h1 align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -58,7 +77,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aniket00101&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 ![](https://nirzak-streak-stats.vercel.app/?user=aniket00101&theme=gruvbox&hide_border=false)<br/>
 
 [![Aniket's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aniket00101&hide=html,stylus,jupyter%20notebook,css,scss,batchfile,dockerfile&theme=dracula&show_icons=true)](https://github.com/aniket00101)
