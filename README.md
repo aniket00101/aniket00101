@@ -18,7 +18,7 @@
   </h2>
 </div>
 
-<h3 align="left">📫 Connect with me:</h3>
+<h3 align="left">📫 Social Links:</h3>
 <div style="display: flex; flex-direction: column; gap: 10px;">
   <a href="https://github.com/aniket00101">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
