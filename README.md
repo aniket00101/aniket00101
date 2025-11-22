@@ -63,3 +63,14 @@
 
 [![Aniket's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aniket00101&hide=html,stylus,jupyter%20notebook,css,scss,batchfile,dockerfile&theme=dracula&show_icons=true)](https://github.com/aniket00101)
 
+### 🐍 My Contribution Snake
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket00101&theme=tokyo-night" />
+</p>
