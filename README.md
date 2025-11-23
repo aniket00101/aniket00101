@@ -68,6 +68,13 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
+
+# Coding Profile
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/aniket800?theme=dark&font=Ubuntu&ext=heatmap)]([https://leetcode.com/u/aniket800/])
+
+</div>
 ---
 
 ## 📈 Contribution Graph
