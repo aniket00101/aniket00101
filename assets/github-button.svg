@@ -1,0 +1,7 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="42" viewBox="0 0 150 42">
+  <rect x="1" y="1" width="148" height="40" rx="7" fill="#D8FF35"/>
+  <text x="75" y="26" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="14"
+        font-weight="bold" fill="#090C09">GITHUB ↗</text>
+</svg>

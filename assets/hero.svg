@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Aniket Das — NEON MAZE, Engineering the Digital Frontier">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070907"/><stop offset="1" stop-color="#12190C"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#26301B" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="18" fill="url(#bg)"/><rect width="1200" height="360" rx="18" fill="url(#grid)" opacity=".65"/>
+<g fill="none" stroke="#4A5D25" stroke-width="3" opacity=".85">
+ <path d="M650 0V62H720V112H790V48H860V0"/><path d="M1200 54H1120V112H1040V170H1110V232H1200"/>
+ <path d="M640 360V290H700V230H770V290H840V360"/><path d="M930 0V48H990V96H930V144H870"/>
+ <path d="M0 250H80V190H150V250H220V310H290V360"/>
+</g>
+<g fill="none" stroke="#D8FF35" stroke-width="3" filter="url(#glow)">
+ <path d="M700 0V62H770V112H840V48H910V0"/><path d="M1200 112H1140V170H1080V226H1140V284H1200"/>
+ <path d="M640 360V310H700V250H770V310H840V360"/>
+</g>
+<g fill="#D8FF35"><circle cx="770" cy="112" r="5"/><circle cx="1080" cy="226" r="5"/><circle cx="700" cy="250" r="5"/></g>
+<text x="64" y="66" fill="#D8FF35" font-family="monospace" font-size="18" letter-spacing="5">[ SYSTEM PROFILE // 001 ]</text>
+<text x="64" y="151" fill="#F3F6EA" font-family="monospace" font-size="64" font-weight="700" letter-spacing="2">ANIKET DAS</text>
+<text x="64" y="211" fill="#D8FF35" font-family="monospace" font-size="34" font-weight="700" letter-spacing="2">NEON//MAZE</text>
+<text x="64" y="258" fill="#DCE4D0" font-family="monospace" font-size="23" letter-spacing="1">ENGINEERING THE DIGITAL FRONTIER_</text>
+<path d="M64 287H560" stroke="#D8FF35" stroke-width="2.5" stroke-dasharray="60 24" opacity=".95"><animate attributeName="stroke-dashoffset" from="0" to="-168" dur="3s" repeatCount="indefinite"/></path>
+<text x="64" y="323" fill="#A7B39A" font-family="monospace" font-size="15" letter-spacing="3">BUILD  /  EXPLORE  /  DEBUG  /  EVOLVE</text>
+<text x="1135" y="330" text-anchor="end" fill="#A7B39A" font-family="monospace" font-size="13">v1.0 // ONLINE</text>
+</svg>

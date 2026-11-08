@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="09 / Connect">
+  <defs>
+    <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#D8FF35" stop-opacity=".9"/><stop offset="1" stop-color="#D8FF35" stop-opacity=".05"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="150" rx="12" fill="#090C09"/>
+  <path d="M0 118H1200" stroke="#27301C" stroke-width="1"/>
+  <path d="M0 24H38V55H78V24H120V82H162V55H206V24H248" fill="none" stroke="#52652B" stroke-width="2" stroke-dasharray="18 12" opacity=".9"></path>
+  <path d="M248 24H290V55H330V24H372V82H414V55H458V24H500" fill="none" stroke="#D8FF35" stroke-width="2.5" stroke-dasharray="22 14" opacity=".9"></path>
+  <circle cx="78" cy="55" r="4" fill="#D8FF35" filter="url(#glow)"/>
+  <circle cx="414" cy="55" r="4" fill="#D8FF35" filter="url(#glow)"/>
+  <text x="42" y="104" fill="#D8FF35" font-family="monospace" font-size="18" letter-spacing="4">09 //</text>
+  <text x="190" y="104" fill="#F1F4E9" font-family="monospace" font-size="34" font-weight="700" letter-spacing="2">CONNECT</text>
+  <text x="1155" y="42" text-anchor="end" fill="#A7B39A" font-family="monospace" font-size="14">OPEN CHANNEL</text>
+  <path d="M190 119H680" stroke="url(#fade)" stroke-width="3" stroke-dasharray="90 30"></path>
+</svg>

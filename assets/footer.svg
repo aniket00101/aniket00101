@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="End of transmission. Keep building.">
+<rect width="1200" height="130" rx="12" fill="#090C09"/>
+<path d="M0 28H1200M0 102H1200" stroke="#303C20"/>
+<path d="M40 65H210L245 35H320L350 65H420" fill="none" stroke="#D8FF35" stroke-width="2.5" stroke-dasharray="20 12"></path>
+<circle cx="245" cy="35" r="4" fill="#D8FF35"/>
+<text x="600" y="59" text-anchor="middle" fill="#D8FF35" font-family="monospace" font-size="25" letter-spacing="4">END OF TRANSMISSION_</text>
+<text x="600" y="88" text-anchor="middle" fill="#A7B39A" font-family="monospace" font-size="14" letter-spacing="3">STAY CURIOUS. KEEP BUILDING.</text>
+<path d="M780 65H850L880 35H955L985 65H1160" fill="none" stroke="#D8FF35" stroke-width="2.5" stroke-dasharray="20 12"></path>
+</svg>
