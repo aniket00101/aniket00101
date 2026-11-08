@@ -1,83 +1,301 @@
-#
-<br><br>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF41,39FF14,CCFF00,FFFF33,FF073A&width=450&lines=I+am+Aniket+Das" alt="I am Aniket Das"/>
-</p>
-
-
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/566303171864699.64761967a0915.png" alt="Behance Image" style="height: 320px; width: auto; border-radius: 8px;" />
-
-<h3>A passionate MERN stack and Ml Ethuasists</h3>
-<p >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4500&width=435&lines=Full+Stack+Web+Developer;Always+Learning+New+Things"/>
-</p>
-
-<div  style="margin: 15px 0; padding: 12px; border-radius: 10px; background: linear-gradient(90deg, #1f4037, #99f2c8); ">
-  <h2 style="font-size: 18px; font-weight: bold; color: #fff; margin: 0; display: flex; align-items: center; justify-content: center; gap: 8px;">
-    👀 Profile Views <img src="https://komarev.com/ghpvc/?username=aniket00101&color=FF4500&style=for-the-badge" alt="aniket00101" style="margin-left: 8px;"/>
-  </h2>
-</div>
-
-<h3 align="left">📫 Social Links:</h3>
-<div style="display: flex; flex-direction: column; gap: 10px;">
-  <a href="https://github.com/aniket00101">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/aniket-das-7766b129a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-psi-three-d6mmygainv.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</div>
-
-# 💻 Tech Stack:
-<h1 align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-</h1>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aniket00101&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aniket00101&theme=gruvbox&hide_border=false)<br/>
-
-[![Aniket's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aniket00101&hide=html,stylus,jupyter%20notebook,css,scss,batchfile,dockerfile&theme=dracula&show_icons=true)](https://github.com/aniket00101)
-
-### 🐍 My Contribution Snake
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
-
-
-# Coding Profile
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/aniket800?theme=dark&font=Ubuntu&ext=heatmap)]([https://leetcode.com/u/aniket800/])
+<img src="assets/hero.svg" width="100%" alt="Aniket Das. Engineering the Digital Frontier."/>
+
+<br/>
+
+**Full-Stack Developer | MERN Stack | Machine Learning Enthusiast**
+
+<br/>
+
+<a href="https://github.com/aniket00101"><img src="https://img.shields.io/badge/GITHUB-ANIKET00101-D8FF35?style=for-the-badge&logo=github&logoColor=090C09&labelColor=090C09" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/aniket-das-7766b129a"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-D8FF35?style=for-the-badge&logo=linkedin&logoColor=090C09&labelColor=090C09" alt="LinkedIn"/></a>
+<a href="https://portfolio-psi-three-d6mmygainv.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-D8FF35?style=for-the-badge&logo=vercel&logoColor=090C09&labelColor=090C09" alt="Portfolio"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=aniket00101&label=PROFILE%20VIEWS&color=D8FF35&style=for-the-badge" alt="Profile views"/>
 
 </div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="assets/whoami.gif" width="100%" alt="01 / Whoami"/>
+</div>
+
+<br/>
+
+Hi, I'm **Aniket Das** — a developer interested in building useful digital products, exploring modern web technologies, and understanding how intelligent systems can improve software experiences.
+
+I work across frontend and backend development, with a focus on the **MERN ecosystem**, while also exploring machine learning and related technologies.
+
+I enjoy turning ideas into working applications: designing interfaces, connecting APIs, handling data, and improving the experience from end to end.
+
+```yaml
+name: Aniket Das
+github: aniket00101
+role: Full-Stack Developer
+focus:
+  - MERN Stack Development
+  - Backend & API Development
+  - Machine Learning Exploration
+  - Problem Solving
+mindset: Build. Explore. Debug. Evolve.
+```
+
+<br/><br/>
+
+<div align="center">
+  <img src="assets/philosophy.gif" width="100%" alt="02 / Developer Philosophy"/>
+</div>
+
+<br/>
+
+> **"Don't just make it work. Understand why it works, make it better, and make it matter."**
+
+- **Think before building.** Understand the problem before choosing the tools.
+- **Build for people.** Good engineering solves a real need, not just a technical challenge.
+- **Learn by shipping.** Turn concepts into projects, test assumptions, and improve through iteration.
+- **Stay curious.** Technology changes; the habit of learning should not.
+
+<br/><br/>
+
+<div align="center">
+  <img src="assets/tech-arsenal.gif" width="100%" alt="03 / Tech Arsenal"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+`// LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=js,python,c,cpp&theme=dark" alt="JavaScript, Python, C and C++"/>
+
+<br/><br/>
+
+`// FRONTEND`
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,redux&theme=dark" alt="HTML, CSS, React, Tailwind CSS and Redux"/>
+
+<br/><br/>
+
+`// BACKEND & FRAMEWORKS`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" alt="Node.js, Express, Django and Flask"/>
+
+<br/><br/>
+
+`// DATABASES & REAL-TIME`
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,socketio&theme=dark" alt="MongoDB, MySQL, Firebase and Socket.IO"/>
+
+<br/><br/>
+
+`// DATA, API & TOOLS`
+
+<img src="https://skillicons.dev/icons?i=pandas,graphql,git,github,vercel&theme=dark" alt="Pandas, GraphQL, Git, GitHub and Vercel"/>
+
+</div>
+
+<sub>Technology icons represent tools and technologies listed in the existing profile. Proficiency levels are intentionally not claimed.</sub>
+
+<br/><br/>
+
+<div align="center">
+  <img src="assets/projects.gif" width="100%" alt="04 / Featured Projects"/>
+</div>
+
+<br/>
+
+
+<!-- FEATURED PROJECTS -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=13&amp;duration=2800&amp;pause=1000&amp;color=D8FF35&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=48&amp;lines=Green+Hand%3A+A+Smart+Plantation+and+Maintenance+IoT+Device" alt="Green Hand animated heading"/>
+
+</div>
+
+<p>An AI-powered smart agriculture platform designed to support informed farming decisions through machine learning, intelligent recommendations, and real-time environmental insights.</p>
+
+**Key Features**
+- AI-powered farming assistant
+- Soil and weather-based crop recommendations
+- Fertilizer recommendations with NPK analysis
+- Crop market price prediction
+- Crop yield forecasting
+- Real-time weather updates
+
+**Tech Stack**
+
+`Python` `FastAPI` `React` `Tailwind CSS` `Scikit-learn` `XGBoost` `MongoDB`
+
+<div align="center">
+  <a href="https://github.com/aniket00101/GreenHand_V-2.0.0_Frontend">
+    <img src="assets/github-button.svg" alt="GitHub Repository"/>
+  </a>
+  &nbsp;
+  <a href="https://green-hand-ai.vercel.app/">
+    <img src="assets/live-demo-button.svg" alt="Live Demo"/>
+  </a>
+</div>
+
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket00101&theme=tokyo-night" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=13&amp;duration=2800&amp;pause=1000&amp;color=D8FF35&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=48&amp;lines=AI-Based+Smart+Gas+Leakage+Detection+and+Safety+System" alt="Smart Gas Safety animated heading"/>
+
+</div>
+
+<p>An IoT-based gas safety solution combining Random Forest-based detection and real-time sensor monitoring to identify potential gas leakage hazards and support automated safety responses.</p>
+
+**Key Features**
+- Real-time gas sensor monitoring
+- ML-based hazard detection
+- Automated electricity cutoff and ventilation activation
+- System-generated call alerts
+- Live monitoring and error-logging dashboard
+- Online device booking and payment integration
+- 24/7 AI chatbot for LPG safety guidance
+
+**Tech Stack**
+
+`Random Forest` `IoT` `MERN Stack` `FastAPI` `Payment Integration`
+
+<div align="center">
+  <a href="https://github.com/LPG-HackONit">
+    <img src="assets/github-button.svg" alt="GitHub Repository"/>
+  </a>
+  &nbsp;
+  <a href="https://lpg-dun.vercel.app/">
+    <img src="assets/live-demo-button.svg" alt="Live Demo"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=13&amp;duration=2800&amp;pause=1000&amp;color=D8FF35&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=48&amp;lines=AI-Based+Speech+Assistance+System+for+Persons+with+Disabilities" alt="Speech Assistance animated heading"/>
+
+</div>
+
+<p>A voice-enabled assistance system designed to make device interaction more accessible through speech recognition and intelligent command processing.</p>
+
+**Key Features**
+- Voice-based device interaction
+- Speech recognition and command processing
+- Device control through voice commands
+- Information retrieval
+- Emergency assistance
+
+**Tech Stack**
+
+`AI/ML` `Speech Recognition` `IoT` `MERN Stack` `FastAPI`
+
+
+
+
+<br/><br/>
+
+<div align="center">
+  <img src="assets/learning.gif" width="100%" alt="05 / Current Learning Roadmap"/>
+</div>
+
+<br/>
+
+The learning roadmap is intentionally editable. Update the items as priorities change.
+
+| Focus area | Current direction |
+|---|---|
+| Full-stack engineering | Strengthening frontend-to-backend application development |
+| Backend development | Improving API design, server-side logic and data handling |
+| Machine learning | Exploring ML concepts and practical applications |
+| Problem solving | Building consistency with coding challenges |
+
+<br/><br/>
+
+<div align="center">
+  <img src="assets/telemetry.gif" width="100%" alt="06 / GitHub Telemetry"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=aniket00101&show_icons=true&hide_border=true&bg_color=090C09&title_color=D8FF35&text_color=E3EAD9&icon_color=D8FF35&include_all_commits=true" height="165" alt="Aniket's GitHub statistics"/>
+<img src="./profile/streak.svg"
+     alt="Aniket's GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aniket00101&layout=compact&hide_border=true&bg_color=090C09&title_color=D8FF35&text_color=E3EAD9&langs_count=8" height="165" alt="Most used languages"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/D8FF35/aniket00101" width="95%" alt="Aniket's GitHub contribution calendar"/>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="assets/contributions.gif" width="100%" alt="08 / Contribution Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniket00101&theme=github_dark" width="100%" alt="Aniket's GitHub contribution activity graph"/>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="assets/coding.gif" width="100%" alt="07 / Coding Profile"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/aniket800/">
+  <img src="https://leetcard.jacoblin.cool/aniket800?theme=dark&font=Ubuntu&ext=heatmap" alt="Aniket's LeetCode statistics"/>
+</a>
+
+<br/>
+
+<a href="https://leetcode.com/u/aniket800/">
+  <img src="https://img.shields.io/badge/LEETCODE-VIEW_PROFILE-D8FF35?style=for-the-badge&logo=leetcode&logoColor=090C09&labelColor=090C09" alt="LeetCode profile"/>
+</a>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="assets/connect.gif" width="100%" alt="09 / Connect"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+**Have an idea, a technical question, or an interesting collaboration? Let's connect.**
+
+<br/>
+
+<a href="https://github.com/aniket00101"><img src="https://img.shields.io/badge/GITHUB-ANIKET00101-D8FF35?style=for-the-badge&logo=github&logoColor=090C09&labelColor=090C09" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/aniket-das-7766b129a"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-D8FF35?style=for-the-badge&logo=linkedin&logoColor=090C09&labelColor=090C09" alt="LinkedIn"/></a>
+<a href="https://portfolio-psi-three-d6mmygainv.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-D8FF35?style=for-the-badge&logo=vercel&logoColor=090C09&labelColor=090C09" alt="Portfolio"/></a>
+
+<br/><br/>
+
+<img src="assets/footer.svg" width="100%" alt="End of transmission. Stay curious. Keep building."/>
+
+</div>
